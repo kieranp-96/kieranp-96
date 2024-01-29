@@ -14,9 +14,15 @@ Ever since I discovered the magic of writing code, I've been on a relentless que
 - 🚀 **Languages:** Currently mastering HTML, CSS, JavaScript, .
 - 🛠️ **Tools & Frameworks:** Currently Exploring ReactJS & NextJS.
 
-## Goals
-My goal is to contribute meaningfully to the tech community, collaborate on exciting projects, and ultimately land a fulfilling role as a software developer. I believe in the power of continuous learning and am excited about the endless possibilities that coding offers.
+### 2024: A Year of Holistic Growth 🌱
 
+As the calendar turns to 2024, my goals extend beyond the keyboard. I am dedicated to improving every facet of my life – physically, mentally, and professionally. This journey is not just about becoming a better coder; it's about becoming a better version of myself.
+
+### Goals for the Year:
+- **Physical Wellness:** Prioritizing health through regular exercise and a balanced lifestyle.
+- **Mental Resilience:** Cultivating a resilient mindset and embracing the power of continuous learning.
+- **Career Advancement:** Taking bold steps in my career, contributing meaningfully, and seeking new opportunities.
+- 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kieranp-96&show_icons=true&count_private=true&hide=contribs,prs)
 
