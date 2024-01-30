@@ -24,7 +24,7 @@ As the calendar turns to 2024, my goals extend beyond the keyboard. I am dedicat
 - **Career Advancement:** Taking bold steps in my career, contributing meaningfully, and seeking new opportunities.
 - 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kieranp-96&show_icons=true&count_private=true&hide=contribs,prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kieranp-96&show_icons=true&count_private=true&show,prs)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kieran-paget-484192188/)
