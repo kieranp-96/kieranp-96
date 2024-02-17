@@ -26,7 +26,6 @@ As the calendar turns to 2024, my goals extend beyond the keyboard. I am dedicat
 - **Physical Wellness:** Prioritizing health through regular exercise and a balanced lifestyle.
 - **Mental Resilience:** Cultivating a resilient mindset and embracing the power of continuous learning.
 - **Career Advancement:** Taking bold steps in my career, contributing meaningfully, and seeking new opportunities.
--
 
 ## Connect with Me
 
