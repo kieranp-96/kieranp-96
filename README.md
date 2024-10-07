@@ -40,10 +40,6 @@ I first discovered coding in 2009 at the age of 13 through game modding, dabblin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kieranp-96&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kieranp-96&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3>🏆 GitHub Trophies</h3>
-
-![](https://github-profile-trophy.vercel.app/?username=Kieranp-96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 <h3>✍️ Random Quote</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
