@@ -10,7 +10,7 @@ I'm a self-taught software developer on a journey to turn my passion for coding 
 
 #### My Journey
 
-Ever since I discovered the magic of writing code, I've been on a relentless quest to deepen my understanding of various programming languages, frameworks, and development practices. My journey is characterized by a commitment to self-improvement and a love for tackling challenging problems.
+I was first introduced to coding in 2009 at the age of 13 through game modding. During that time, I explored C# and Python for a few months. However, after the loss of a parent at 14, I stopped coding and didn't return to it until 2023, when I was 27 and wanted to reignite my interest in programming, I started with HTML, CSS and JavaScript and I am now expanding my knowledge into C# and a few other things.
 
 ## 💻 Tech Stack:
 
