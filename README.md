@@ -12,23 +12,30 @@ I'm a self-taught software developer on a journey to turn my passion for coding 
 
 Ever since I discovered the magic of writing code, I've been on a relentless quest to deepen my understanding of various programming languages, frameworks, and development practices. My journey is characterized by a commitment to self-improvement and a love for tackling challenging problems.
 
-## Tech Stack
+## 💻 Tech Stack:
 
-- 🚀 **Languages:** Currently mastering HTML, CSS, JavaScript, .
-- 🛠️ **Tools & Frameworks:** Currently Exploring ReactJS & NextJS.
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 2024: A Year of Holistic Growth 🌱
+## 🌐 Socials:
 
-As the calendar turns to 2024, my goals extend beyond the keyboard. I am dedicated to improving every facet of my life – physically, mentally, and professionally. This journey is not just about becoming a better coder; it's about becoming a better version of myself.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kieran-paget/)
 
-### Goals for the Year:
+# 📊 GitHub Stats:
 
-- **Physical Wellness:** Prioritizing health through regular exercise and a balanced lifestyle.
-- **Mental Resilience:** Cultivating a resilient mindset and embracing the power of continuous learning.
-- **Career Advancement:** Taking bold steps in my career, contributing meaningfully, and seeking new opportunities.
+![](https://github-readme-stats.vercel.app/api?username=Kieranp-96&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kieranp-96&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kieranp-96&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Connect with Me
+## 🏆 GitHub Trophies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kieran-paget-484192188/)
+![](https://github-profile-trophy.vercel.app/?username=Kieranp-96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Recent Activity
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Kieranp-96&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
