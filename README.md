@@ -1,3 +1,4 @@
+<img src="./Banner.png">
 <h1>Hi there! 👋</h1>
 
 I'm a self-taught software developer, passionate about turning my love for coding into a fulfilling career. At 28, I've embraced the journey of learning software development, always eager to expand my skill set and build impactful solutions.
